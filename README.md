@@ -6,4 +6,4 @@ Household type, total area and furniture name listThe new house has no furniture
 
 
 <h3 align="left">Connect with me:</h3>
-
+<h3 align='right'>Hello write to my telegram https://t.me/zxcvbnmlapq</h3>
