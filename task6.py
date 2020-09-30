@@ -15,8 +15,18 @@ class House():
         self.table_area = 1.5
         print(f"{self.bed}: {self.bed_area}m2")
         print(f"{self.wardrobe}: {self.wardrobe_area}m2")
-        print(f"{self.table}: {self.table_area}m2")
+        print(f"{self.table}: {self.table_area}m2") 
+        
+Side Table = Side table 44*44*46
 
+STOOL w/WOODEN TOP = STOOL w/WOODEN TOP in mango wood  33*33*46
+
+CENTER TABLE WOODEN TOP (TEAK TOP) = 60*60*49
+
+NEST OF 3 TABLES = 40*30*45
+
+BED SIDE CABINET L&R OPEN = 50*40*70
+        
     def remaining_area(self):
         print(self.area - (self.bed_area+self.wardrobe_area+self.table_area))
     
